@@ -1,10 +1,38 @@
 ---
 layout: page
-title: "About"
+<!--title: "About" -->
 permalink: /about/
 ---
 
-whiteglass is a minimal, responsive Jekyll theme for hackers.
+#### CURRENT POSITION 
+
+    Research Professor, Korea Polytechnic University
+
+#### EDUCATION
+
+*Seoul National University*, Seoul, Korea
+
+    Ph D., Industrial Engineering, 2019.
+    M.A., Industrial Engineering, 2011.
+    B.A., Computer Science and Engineering, 2006.
+
+
+
+#### EXPERIENCES
+
+**Korea Asset Pricing Co.**, Seoul, Korea, *Team Manager*, 2011-2013.
+
+**CMPR(Capital Market and Portfolio Research, Inc)**, Seoul, Korea, *Consultant*, 2008-2010.   
+
+**LG CNS**, Seoul, Korea, *SE-Application Flow Consultant*, 2007-2008.
+
+**LG MM Institute(Mobile and Minimalize)**, Seoul, Korea, *Researcher", 2006.
+
+
+
+#### RESEARCH ACTIVITIES
+
+
 
 ## Installation
 
