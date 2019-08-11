@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 ### **Research Interests**
+- Exact and heuristic algorithms for combinatorial optimization 
 - Branch-and-Bound with Machine Learning 
 - Optimization in power systems
 - Stochastic optimization
