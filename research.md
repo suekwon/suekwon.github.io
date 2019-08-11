@@ -13,7 +13,7 @@ permalink: /research/
 - Kwon, S. J., Joung, S., & Lee, K. (2019). **Comparative analysis of pattern-based models for the two-dimensional two-stage guillotine cutting stock problem**. *Computers & Operations Research, 109, 159-169.* <a href = https://doi.org/10.1016/j.cor.2019.05.005 target="_blank">[Elsevier Link]</a>
 
 ### **Conferences**
-- 16th ESICUP Meeting
+- 16th ESICUP Meeting, presentation
   - Topic: Column Generation based Heuristic Algorithms for the Two-dimensional Two-stage Guillotine Cutting Stock Problem
   - 2019.04.08~12, ITAM Mexico City, Mexico.
 
