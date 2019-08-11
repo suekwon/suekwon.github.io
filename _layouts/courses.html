@@ -11,7 +11,9 @@ layout: default
     {% for post in site.posts %}
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
-
+      
+      {{contents}}
+    
       <li>
         <span class="post-meta">
           {{ post.date | date: "%b %-d, %Y" }}
