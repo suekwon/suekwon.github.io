@@ -3,7 +3,6 @@ layout: research
 title: "Research"
 permalink: /research/
 ---
-<img src="/images/suekwon.png" class="left" />
 
 ### **Research Interests**
 - Branch-and-Bound with Machine Learning 
