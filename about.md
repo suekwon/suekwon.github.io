@@ -30,7 +30,7 @@ permalink: /about/
      - Participated in developing the Integrated Risk Management Solution (Java).
      - Participated in consulting projects for portfolio management. 
 - 2007-2008: *SE-Application Flow Consultant*, LG CNS(LG Consulting and Solution), Seoul, Korea.
-     - Participated in the Health and Insurance Project (HNIP)
-     - Participated in the solution integration project for Hospital Information System (HIS)
+     - Participated in the Health and Insurance Project (HNIP) (Java).
+     - Participated in the solution integration project for Hospital Information System (HIS) (C#).
 - 2006: *Researcher*, LG MM Institute(Mobile and Minimalize), Seoul, Korea. 
-     - Developed the Idiom extracting algorithm from sentence
+     - Developed an algorithm for extracting idioms from sentences (C).
