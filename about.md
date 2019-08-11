@@ -4,7 +4,7 @@ permalink: /about/
 ---
 <!--title: "About" -->
 
-<img src="/images/suekwon.png" class="left" />
+<img src="/images/suekwon.png" class="right"/>
 
 **CURRENT POSITION** 
 > Research Professor, Energy & Electrical Engineering, Korea Polytechnic University
@@ -29,7 +29,7 @@ permalink: /about/
 - 2008-2010: *Consultant*, CMPR(Capital Market and Portfolio Research, Inc), Seoul, Korea.
      - Participated in developing the Integrated Risk Management Solution (Java).
      - Participated in consulting projects for portfolio management. 
-- 2007-2008: *SE-Application Flow Consultant*, LG CNS(LG Consulting and Solution), Seoul, Korea.
+- 2007-2008: *SE-flow consultant*, LG CNS(LG Consulting and Solution), Seoul, Korea.
      - Participated in the Health and Insurance Project (HNIP) (Java).
      - Participated in the solution integration project for Hospital Information System (HIS) (C#).
 - 2006: *Researcher*, LG MM Institute(Mobile and Minimalize), Seoul, Korea. 
