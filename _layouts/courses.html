@@ -22,7 +22,7 @@ layout: default
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
   
   <ul class="post-archives">
-    {% for post in site.materials %}
+    {% for post in site.posts %}
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
       
@@ -31,7 +31,7 @@ layout: default
       <li>
         <span class="post-meta">
           {{ post.date | date: "%b %-d, %Y" }}
-          {% if post.categories != empty or post.tags != empty %}
+          {% if post.categories == "teaching" %}
             {% include category_links.html categories=post.categories tags=post.tags %}
           {% endif %}
           {% if post.external-url %}
