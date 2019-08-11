@@ -23,19 +23,9 @@ layout: default
             • <a href="{{ post.url | relative_url }}">Permalink</a>
           {% endif %}
         </span>
-
-        <h1>
-          {% if catlist name= "teaching" %}
-            {% if post.external-url %}
-              <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
-            {% else %}
-              <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}</a>
-            {% endif %}
-          {% endif %}
-        </h1>
+       
       </li>
     {% endfor %}
   </ul>
     
-
 </div>
