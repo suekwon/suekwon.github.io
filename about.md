@@ -25,12 +25,12 @@ permalink: /about/
 
 **EXPERIENCES**
 - 2011-2013: *Team Manager*, Korea Asset Pricing Co., Seoul, Korea.
-     - Implemented pricing engine for derivatives (C++).
+     - Implemented the pricing engine for derivatives (C++).
 - 2008-2010: *Consultant*, CMPR(Capital Market and Portfolio Research, Inc), Seoul, Korea.
      - Participated in developing the Integrated Risk Management Solution (Java).
-     - Participated in portfolio management consulting 
+     - Participated in consulting projects for portfolio management. 
 - 2007-2008: *SE-Application Flow Consultant*, LG CNS(LG Consulting and Solution), Seoul, Korea.
-     - Participated in Health and Insurance Project (HNIP)
-     - Participated in solution integration project for Hospital Information System (HIS)
+     - Participated in the Health and Insurance Project (HNIP)
+     - Participated in the solution integration project for Hospital Information System (HIS)
 - 2006: *Researcher*, LG MM Institute(Mobile and Minimalize), Seoul, Korea. 
-     - Developed Idiom extracting algorithm from sentence
+     - Developed the Idiom extracting algorithm from sentence
