@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: teaching
 ---
 `open test` test
 
