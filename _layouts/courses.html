@@ -1,9 +1,29 @@
 ---
 layout: default
 ---
+<article class="teaching">
+  
+  <h1 class="page-heading">2019 Teaching</h1>  
+
+  <header class="teaching-header">
+    <h1 class="teaching-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="teaching-content">
+    {{ content }}
+  </div>
+
+  {% if site.comments == true and page.comments != false %}
+    <div class="teaching-comments">
+      {% include custom_comments_provider.html %}
+    </div>
+  {% endif %}
+
+</article>
+
 <div class="home">
 
-  <h1 class="page-heading">2019 Teaching</h1>  
+  
   
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
   
