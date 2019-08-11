@@ -1,3 +1,4 @@
+<!--
 # whiteglass
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-whiteglass.svg)](https://badge.fury.io/rb/jekyll-whiteglass)
@@ -351,3 +352,4 @@ just like normal.
 
 The theme is available as open source under the terms of the
 [MIT License](http://opensource.org/licenses/MIT).
+-->
