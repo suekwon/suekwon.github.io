@@ -20,8 +20,7 @@ permalink: /about/
 - 2008-2010: *Consultant*, CMPR(Capital Market and Portfolio Research, Inc), Seoul, Korea.   
 - 2007-2008: *SE-Application Flow Consultant*, LG CNS(LG Consulting and Solution), Seoul, Korea.
 - 2006: *Researcher*, LG MM Institute(Mobile and Minimalize), Seoul, Korea. 
-
-     -(Developed Idiom extracting algorithm from sentence)
+     - "Developed Idiom extracting algorithm from sentence"
 
 
 **RESEARCH ACTIVITIES**
