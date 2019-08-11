@@ -25,7 +25,7 @@ layout: default
         </span>
 
         <h1>
-          {% if post.categories == "teaching" %}
+          {% if catlist name= "teaching" %}
             {% if post.external-url %}
               <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
             {% else %}
