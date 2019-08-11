@@ -1,5 +1,5 @@
 ---
-materials
+layout: materials
 ---
 
 test
