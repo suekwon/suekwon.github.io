@@ -4,6 +4,8 @@ permalink: /about/
 ---
 <!--title: "About" -->
 
+<img src="/images/suekwon.png" class="right" />
+
 **CURRENT POSITION** 
 > Research Professor, Energy & Electrical Engineering, Korea Polytechnic University
 
