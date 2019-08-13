@@ -10,9 +10,7 @@ layout: default
     {% for post in site.posts %}
       {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
       {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
-      
-      {{contents}}
-    
+          
       <li>
         <span class="post-meta">
           {{ post.date | date: "%b %-d, %Y" }}
@@ -23,7 +21,14 @@ layout: default
             • <a href="{{ post.url | relative_url }}">Permalink</a>
           {% endif %}
         </span>
-       
+        
+        <h1>
+          {% if post.external-url %}
+            <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+          {% else %}
+            <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}</a>
+          {% endif %}
+        </h1>
       </li>
     {% endfor %}
   </ul>
