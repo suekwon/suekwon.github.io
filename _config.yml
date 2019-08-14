@@ -18,7 +18,7 @@ author: suekwon
 description: Minimal, responsive Jekyll theme for hackers.
 baseurl: "" #"/whiteglass" # the subpath of your site, e.g. /blog
 url: "https://suekwon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-lang: UTF-8
+lang: "en"
 timezone: UTC
 exclude:
   - Gemfile
@@ -39,6 +39,7 @@ facebook_image:
 google_analytics: UA-NNNNNNNN-N
 comments: true
 
+theme: jekyll-whiteglass
 # Plugins
 plugins:
   - jekyll-archives
