@@ -4,7 +4,7 @@ title: "Courses"
 permalink: /courses/
 ---
 
-### 2019 Teaching
+## **2019 Teaching**
 
 <!--### Programming I (C)
 -
