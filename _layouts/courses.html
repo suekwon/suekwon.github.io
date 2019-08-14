@@ -3,34 +3,43 @@ layout: default
 ---
 
 <div class="home">
+    
+  <!--<h1 class="page-heading">2019 Teaching</h1> -->
+
+  {{ content }}
+
+  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}  
   
-  {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
-  
-  <ul class="post-archives">
+  <ul class="post-archives">  	
     {% for post in site.posts %}
-      {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
-      {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
-          
-      <li>
-        <span class="post-meta">
-          {{ post.date | date: "%b %-d, %Y" }}
-          {% if post.categories == "teaching" %}
-            {% include category_links.html categories=post.categories tags=post.tags %}
-          {% endif %}
-          {% if post.external-url %}
-            • <a href="{{ post.url | relative_url }}">Permalink</a>
-          {% endif %}
-        </span>
-        
-        <h1>
-          {% if post.external-url %}
-            <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
-          {% else %}
-            <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}</a>
-          {% endif %}
-        </h1>
-      </li>
-    {% endfor %}
+     		
+     		{% if post.categories[0] == "teaching" %}
+    		    		    
+	      {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
+	      {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+	
+	      <li>
+	        <span class="post-meta">
+	          {{ post.date | date: "%b %-d, %Y" }}
+	          {% if post.categories != empty or post.tags != empty %}
+	            {% include category_links.html categories=post.categories tags=post.tags %}
+	          {% endif %}
+	          {% if post.external-url %}
+	            • <a href="{{ post.url | relative_url }}">Permalink</a>
+	          {% endif %}
+	        </span>
+	
+	        <h1>
+	          {% if post.external-url %}
+	            <a class="post-link" href="{{ post.external-url }}">{{ post.title | escape }} &rarr;</a>
+	          {% else %}
+	            <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}</a>	          
+	          {% endif %}
+	        </h1>
+	      </li>	 
+	      	   
+	      {% endif %}   
+    {% endfor %}    
   </ul>
     
 </div>
