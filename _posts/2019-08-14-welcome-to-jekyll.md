@@ -20,6 +20,17 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+
+[whiteglassLinks1](https://yous.github.io/whiteglass/)
+
+[whiteglassLinks2](https://github.com/yous/whiteglass)
+
+[Jkfolder](https://devyurim.github.io/development%20environment/github%20blog/2018/08/07/blog-6.html)
+
+[htmlQ](https://docs.djangoproject.com/en/2.2/ref/templates/builtins/)
+
+[markdn](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
