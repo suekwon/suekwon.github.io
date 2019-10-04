@@ -36,8 +36,6 @@ layout: default
           {% endif %}
         </h1>
       </li>
-      
-      {% endif %} 
     {% endfor %}
   </ul>
 

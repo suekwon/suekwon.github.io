@@ -4,22 +4,49 @@ title:  "Programming II (python)"
 date:   2019-08-14 00:59:25 +0900
 categories: teaching
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+#### **Course Description**
+- AEN22002 PROGRAMMING II is intended for students with programming experience (*Prerequisites: PROGRAMMING I*). It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major. The class uses the Python 3.7 (*Anaconda*).
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+- Syllabus [[download]][downsyl]
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+#### **Readings**
+- The textbook is `점프 투 파이썬 박응용, 이지스퍼블리싱, 2017` ISBN: 9791163030911  The book and the course lectures parallel each other, though there is more detail in the book about some topics both hard copy and e-book [(link)](https://wikidocs.net/book/1).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+|SES# | TOPICS | READINGS |
+|:---:|:---|---:|
+|1| Python 소개  | Chapter 1 |
+|2| 데이터타입 | Chapter 1 |
+|3| 조건문 | Chapter 1 |
+|4| 반복문 | Chapter 1 |
+|5| 함수 | Chapter 1 |
+|6| 클래스 | Chapter 1 |
+|7| 모듈/예외처리 | Chapter 1 |
+|8| Numpy | Chapter 1 |
+|9| Matplotlib | Chapter 1 |
+|10| Pandas | Chapter 1 |
+|11| Scipy | Chapter 1 |
+|12| 응용프로그램 | Chapter 1 |
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+#### **Lecture Slides and Codes**
+- 
+|SES# | TOPICS | LECTURE SLIDES | LECTURE CODES |
+|:---:|:---|:---|:---| 
+|1| Python 소개C  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|2| 데이터타입  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|3| 조건문  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|4| 반복문  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|5| 함수  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|6| 클래스  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|7| 모듈/예외처리 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|8| Numpy | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|9| Matplo  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|10| Pandas | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|11| Scipy  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|12| 응용프로그램 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+
+#### **Assignments**
+-  
+
+[downsyl]: <http://naver.com>

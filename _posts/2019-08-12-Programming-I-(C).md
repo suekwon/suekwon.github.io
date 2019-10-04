@@ -2,23 +2,58 @@
 layout: post
 categories: teaching
 ---
-`open test` test
+### **_\**Notice_**
+- [10/2] Quiz
+- [10/9] Hangeul Proclamation Day 한글날 (no class)
+- [10/22] mid-term
+
+#### **Course Description**
+- AEN22003 PROGRAMMING I is intended for students with no programming experience in C. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major. The class uses the C99 standard under `VisualStudio 2017`.
+
+- Syllabus [[download]][downsyl]
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+#### **Readings**
+- The textbook is `C 언어 for Beginner (3판) 우재남, 한빛아카데미, 2018` ISBN: 9791156643951. The book and the course lectures parallel each other, though there is more detail in the book about some topics. 
 
-Jekyll also offers powerful support for code snippets:
+|SES# | TOPICS | READINGS |
+|:---:|:---|---:|
+|1| C 프로그래밍 개요 | Chapter 1 |
+|2| 프로그래밍 기본 원소 (변수 및 데이터 형식) | Chapter 1 |
+|3| 연산자 이해 | Chapter 1 |
+|4| 흐름제어: 조건문 | Chapter 1 |
+|5| 흐름제어: 반복문 | Chapter 1 |
+|6| 함수 | Chapter 1 |
+|7| 배열 | Chapter 1 |
+|8| 배열과 포인터 | Chapter 1 |
+|9| 전처리기 | Chapter 1 |
+|10| 구조체 | Chapter 1 |
+|11| 입출력 | Chapter 1 |
+|12| 응용프로그램 | Chapter 1 |
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+#### **Lecture Slides and Codes**
+- 
+|SES# | TOPICS | LECTURE SLIDES | LECTURE CODES |
+|:---:|:---|:---|:---| 
+|1| C 프로그래밍 개요 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|2| 프로그래밍 기본 원소 (변수 및 데이터 형식) | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|3| 연산자 이해 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|4| 흐름제어: 조건문 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|5| 흐름제어: 반복문 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|6| 함수 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|7| 배열 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|8| 배열과 포인터 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|9| 전처리기 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|10| 구조체 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|11| 입출력 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
+|12| 응용프로그램 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
 
+#### **Assignments**
+-  
+
+[downsyl]: <http://naver.com>
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
