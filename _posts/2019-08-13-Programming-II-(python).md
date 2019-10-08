@@ -23,7 +23,7 @@ categories: teaching
 |5| 함수 | Chapter 4 |
 |6| 클래스 | Chapter 5.1 |
 |7| 모듈/예외처리 | Chapter 5.2, 5.3, 5.4 |
-|8| Numpy | *Chapter 4* |
+|8| Numpy | *Chapter 4 |
 |9| Matplotlib | *Chapter 8 |
 |10| Pandas | *Chapter 5 |
 |11| 데이터처리 | *Chapter 2 |
