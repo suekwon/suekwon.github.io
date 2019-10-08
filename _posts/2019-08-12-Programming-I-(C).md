@@ -18,18 +18,18 @@ categories: teaching
 
 |SES# | TOPICS | READINGS |
 |:---:|:---|---:|
-|1| C 프로그래밍 개요 | Chapter 1 |
-|2| 프로그래밍 기본 원소 (변수 및 데이터 형식) | Chapter 1 |
-|3| 연산자 이해 | Chapter 1 |
-|4| 흐름제어: 조건문 | Chapter 1 |
-|5| 흐름제어: 반복문 | Chapter 1 |
-|6| 함수 | Chapter 1 |
-|7| 배열 | Chapter 1 |
-|8| 배열과 포인터 | Chapter 1 |
-|9| 전처리기 | Chapter 1 |
-|10| 구조체 | Chapter 1 |
-|11| 입출력 | Chapter 1 |
-|12| 응용프로그램 | Chapter 1 |
+|1| C 프로그래밍 개요 | Chapter 1, 2 |
+|2| 프로그래밍 기본 원소 (변수 및 데이터 형식) | Chapter 3 |
+|3| 연산자 이해 | Chapter 4 |
+|4| 흐름제어: 조건문 | Chapter 5 |
+|5| 흐름제어: 반복문 | Chapter 6, 7 |
+|6| 함수 | Chapter 10 |
+|7| 배열 | Chapter 8 |
+|8| 배열과 포인터 | Chapter 9 |
+|9| 전처리기 | Chapter 14.3 |
+|10| 구조체 | Chapter 13 |
+|11| 입출력 | Chapter 11 |
+|12| 응용프로그램 | Chapter 15 |
 
 
 #### **Lecture Slides and Codes**
