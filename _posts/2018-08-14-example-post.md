@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Example text blogging"
-date:   2019-08-14 11:40:25 +0900
+date:   2018-08-14 11:40:25 +0900
 categories: text
 ---
 

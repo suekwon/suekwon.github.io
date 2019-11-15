@@ -39,7 +39,7 @@ facebook_image:
 google_analytics: #UA-NNNNNNNN-N
 comments: true
 
-theme: jekyll-whiteglass
+#theme: jekyll-whiteglass
 # Plugins
 plugins:
   - jekyll-archives
