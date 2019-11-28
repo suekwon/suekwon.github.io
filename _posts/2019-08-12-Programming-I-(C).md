@@ -60,5 +60,5 @@ categories: teaching
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-<embed src="https://suekwon.github.io/blob/master/images/prog1/AEN2_1C언어소개.pdf" type="application/pdf" />
-[Slides for Lec1 (PDF)]: (https://docs.google.com/viewer?url=https://github.com/suekwon/suekwon.github.io/blob/master/images/prog1/AEN2_1C언어소개.pdf)
+
+[Slides for Lec1 (PDF)]: (https://docs.google.com/viewer?url=https://suekwon.github.io/images/prog1/AEN2_1C언어소개.pdf)
