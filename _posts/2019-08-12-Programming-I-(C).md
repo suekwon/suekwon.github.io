@@ -42,14 +42,13 @@ categories: teaching
 |3| 연산자 이해 | <a href="https://suekwon.github.io/images/prog1/AEN2_3변수형과 연산자.pdf" target="_blank">Slides for Lec3 (PDF)</a> | [Code for Lec3 (.c)]|
 |4| 흐름제어: 조건문 | <a href="https://suekwon.github.io/images/prog1/AEN2_4흐름제어-조건문.pdf" target="_blank">Slides for Lec4 (PDF)</a> | [Code for Lec4 (.c)]|
 |5| 흐름제어: 반복문 | <a href="https://suekwon.github.io/images/prog1/AEN2_5흐름제어-반복문.pdf" target="_blank">Slides for Lec5(PDF)</a> | [Code for Lec5 (.c)]|
-|6| 함수 | <a href="https://suekwon.github.io/images/prog1/AEN2_6함수.pdf" target="_blank">Slides for Lec6 (PDF)</a> | [Code for Lec6 (.c)]|
-|7| 배열 | <a href="https://suekwon.github.io/images/prog1/AEN2_8배열.pdf" target="_blank">Slides for Lec7 (PDF)</a> | [Code for Lec7 (.c)]|
-|8| 배열과 포인터 | <a href="https://suekwon.github.io/images/prog1/AEN2_9배열과포인터.pdf" target="_blank">Slides for Lec8 (PDF)</a> | [Code for Lec8 (.c)]|
-|9| 전처리기 | <a href="https://suekwon.github.io/images/prog1/AEN2_11전처리기구조체.pdf" target="_blank">Slides for Lec9 (PDF)</a> | [Code for Lec9 (.c)]|
-|10| 구조체 | <a href="https://suekwon.github.io/images/prog1/AEN2_3변수형과 연산자.pdf" target="_blank">Slides for Lec10 (PDF)</a> | [Code for Lec10 (.c)]|
-|11| 메모리관리 | <a href="https://suekwon.github.io/images/prog1/AEN2_12파일입출력1.pdf" target="_blank">Slides for Lec11 (PDF)</a> | [Code for Lec11 (.c)]|
-|12| 입출력 | <a href="https://suekwon.github.io/images/prog1/AEN2_12파일입출력2" target="_blank">Slides for Lec12 (PDF)</a> | [Code for Lec12 (.c)]|
-|13| 응용프로그램 | | |
+|6| 함수 | <a href="https://suekwon.github.io/images/prog1/AEN2_6함수2.pdf" target="_blank">Slides for Lec6 (PDF)</a> | [Code for Lec6 (.c)]|
+|7| 배열 | <a href="https://suekwon.github.io/images/prog1/AEN2_8배열2.pdf" target="_blank">Slides for Lec7 (PDF)</a> | [Code for Lec7 (.c)]|
+|8| 배열과 포인터 | <a href="https://suekwon.github.io/images/prog1/AEN2_9배열과포인터2.pdf" target="_blank">Slides for Lec8 (PDF)</a> | [Code for Lec8 (.c)]|
+|9| 전처리기/구조체 | <a href="https://suekwon.github.io/images/prog1/AEN2_11전처리기구조체.pdf" target="_blank">Slides for Lec9 (PDF)</a> | [Code for Lec9 (.c)]|
+|10| 메모리관리 | <a href="https://suekwon.github.io/images/prog1/AEN2_12파일입출력1.pdf" target="_blank">Slides for Lec10 (PDF)</a> | [Code for Lec11 (.c)]|
+|11| 입출력 | <a href="https://suekwon.github.io/images/prog1/AEN2_12파일입출력2.pdf" target="_blank">Slides for Lec11 (PDF)</a> | [Code for Lec12 (.c)]|
+|12| 응용프로그램 | | |
 
 #### **Assignments**
 - Quiz 1.
