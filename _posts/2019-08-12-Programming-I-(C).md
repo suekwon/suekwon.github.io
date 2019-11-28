@@ -60,5 +60,5 @@ categories: teaching
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-
+<a href="suekwon.github.io/images/prog1/AEN2_1.pdf" target="_blank">PDF.</a>
 [Slides for Lec1 (PDF)]: (https://docs.google.com/viewer?url=https://github.com/suekwon/suekwon.github.io/blob/master/images/prog1/AEN2_1C%EC%96%B8%EC%96%B4%EC%86%8C%EA%B0%9C.pdf)
