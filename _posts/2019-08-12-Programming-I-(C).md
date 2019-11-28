@@ -26,11 +26,10 @@ categories: teaching
 |6| 함수 | Chapter 10 |
 |7| 배열 | Chapter 8 |
 |8| 배열과 포인터 | Chapter 9 |
-|9| 전처리기 | Chapter 14.3 |
-|10| 구조체 | Chapter 13.1 |
-|11| 메모리관리 | Chapter 12 |
-|12| 입출력 | Chapter 11 |
-|13| 응용프로그램 | Chapter 15 |
+|9| 전처리기,구조체 | Chapter 14.3/ Chapter 13.1 |
+|10| 메모리관리 | Chapter 12 |
+|11| 입출력 | Chapter 11 |
+|12| 응용프로그램 | Chapter 15 |
 
 
 #### **Lecture Slides and Codes**
