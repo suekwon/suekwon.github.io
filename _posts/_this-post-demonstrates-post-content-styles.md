@@ -87,5 +87,4 @@ Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing 
 
 Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
 
-%%% https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
 
