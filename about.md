@@ -11,6 +11,7 @@ permalink: /about/
 
 
 **EXPERIENCES**
+- 2020-current: *Director*, Qvious Inc.
 - 2020-current: *Lecturer*, Dep. of Convergence Security Engineering, Sungshin Women's University
 - 2018-2019: *Research Professor*, Dep. of Energy & Electrical Engineering, Korea Polytechnic University
 - 2011-2013: *Team Manager*, Korea Asset Pricing Co., Seoul, Korea.
