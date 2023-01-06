@@ -32,28 +32,8 @@ categories: teaching
 |12| 응용프로그램 | Chapter 15 |
 
 
-#### **Lecture Slides and Codes**
-- 
-|SES# | TOPICS | LECTURE SLIDES | LECTURE CODES |
-|:---:|:---|:---|:---| 
-|1| C 프로그래밍 개요 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|2| 프로그래밍 기본 원소 (변수 및 데이터 형식) | [Slides for Lec2 (PDF)] | [Code for Lec2 (.c)]|
-|3| 연산자 이해 | [Slides for Lec3 (PDF)] | [Code for Lec3 (.c)]|
-|4| 흐름제어: 조건문 | [Slides for Lec4 (PDF)] | [Code for Lec4 (.c)]|
-|5| 흐름제어: 반복문 | [Slides for Lec5 (PDF)] | [Code for Lec5 (.c)]|
-|6| 함수 | [Slides for Lec6 (PDF)] | [Code for Lec6 (.c)]|
-|7| 배열 | [Slides for Lec7 (PDF)] | [Code for Lec7 (.c)]|
-|8| 배열과 포인터 | [Slides for Lec8 (PDF)] | [Code for Lec8 (.c)]|
-|9| 전처리기 | [Slides for Lec9 (PDF)] | [Code for Lec9 (.c)]|
-|10| 구조체 | [Slides for Lec10 (PDF)] | [Code for Lec10 (.c)]|
-|11| 입출력 | [Slides for Lec11 (PDF)] | [Code for Lec11 (.c)]|
-|12| 응용프로그램 | [Slides for Lec12 (PDF)] | [Code for Lec12 (.c)]|
-
-#### **Assignments**
--  
 
 [downsyl]: <http://naver.com>
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
-

@@ -5,17 +5,19 @@ permalink: /research/
 ---
 
 ### **Research Interests**
-- Integer programming
-- Exact and heuristic algorithms for combinatorial optimization 
+- Portfolio optimization
 - Optimization in financial instruments
 - Stochastic / Robust optimization
-- Branch-and-Bound with Machine Learning 
+- Branch-and-Bound with machine learning 
+- Integer programming
 
 
-### **Publication**
-- Kwon, S. J., Joung, S., & Lee, K. (2019). **Comparative analysis of pattern-based models for the two-dimensional two-stage guillotine cutting stock problem**. *Computers & Operations Research, 109, 159-169.* [[Elsevier Link]](https://doi.org/10.1016/j.cor.2019.05.005)
+<details>
+<summary><font size="4"> <b> Conferences </b> </font> </summary>
 
-### **Conferences**
+<div markdown="1">
+
+<!-- ### **Conferences** -->
 - 16th ESICUP Meeting, presentation
   - Topic: Column Generation based Heuristic Algorithms for the Two-dimensional Two-stage Guillotine Cutting Stock Problem
   - 2019.04.08~12, ITAM Mexico City, Mexico.
@@ -32,7 +34,21 @@ permalink: /research/
   - Topic: MIP formulations for 1.5-dimensional cutting stock problem
   - 2016.04.13~13, Jeju, Korea.
 
-<!--  sets `twitter:creator` -->
+</div>
+</details>
 
-### **Working Papers**
-- LP-based Heuristic algorithms for 2D-2GCSP
+<details>
+<summary><font size="4"> <b> Publication </b> </font> </summary>
+
+<div markdown="1">
+
+<!-- ### **Publication** -->
+- Kwon, S. J., Joung, S., & Lee, K. (2019). **Comparative analysis of pattern-based models for the two-dimensional two-stage guillotine cutting stock problem**. *Computers & Operations Research, 109, 159-169.* [[Elsevier Link]](https://doi.org/10.1016/j.cor.2019.05.005)
+
+</div>
+</details>
+
+
+
+<!-- ### **Working Papers**
+- LP-based Heuristic algorithms for 2D-2GCSP -->

@@ -30,26 +30,6 @@ categories: teaching
 |14| 기말고사 |  |
 
 
-#### **Lecture Slides and Codes**
-- 
-|SES# | TOPICS | LECTURE SLIDES | LECTURE CODES |
-|:---:|:---|:---|:---| 
-|1| 계량적 사고 및 모형 | [Slides for Lec1 (PDF)]|  |
-|2| 선형계획법: 서론 및 모형의 소개, 정식화, 도해법 | [Slides for Lec2 (PDF)] |
-|3| 선형계획법: 특수한 형태 및 심플렉스법 | [Slides for Lec3 (PDF)] |
-|4| 선형계획법: 민감도 분석 및 컴퓨터 이용 | [Slides for Lec4 (PDF)] |
-|5| 목표계획법 | [Slides for Lec5 (PDF)] |
-|6| 정수계획법: 모형의 소개 및 정식화 | [Slides for Lec6(PDF)] |
-|7| 정수계획법: 분단탐색법 | [Slides for Lec7 (PDF)] |
-|8| 정수계획법: 정수계획 모형 | [Slides for Lec8 (PDF)] |
-|9| 게임이론 | [Slides for Lec9 (PDF)] |
-|10| 의사결정분석: 조건부 확률, 의사결정나무 분석 | [Slides for Lec10 (PDF)] |
-|11| 의사결정분석: 완전/표본정보, 정보의 가치 | [Slides for Lec11 (PDF)] |
-|12| 시뮬레이션 | [Slides for Lec12 (PDF)] |
-
-
-#### **Assignments**
--  
 
 [downsyl]: <http://naver.com>
 [jekyll-docs]: http://jekyllrb.com/docs/home

@@ -30,24 +30,5 @@ categories: teaching
 |12| 응용프로그램 | . |
 
 
-#### **Lecture Slides and Codes**
-- 
-|SES# | TOPICS | LECTURE SLIDES | LECTURE CODES |
-|:---:|:---|:---|:---| 
-|1| Python 소개C  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|2| 데이터타입  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|3| 조건문  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|4| 반복문  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|5| 함수  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|6| 클래스  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|7| 모듈/예외처리             | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|8| Numpy | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|9| Matplo  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|10| Pandas | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|11| Scipy  | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-|12| 응용프로그램 | [Slides for Lec1 (PDF)] | [Code for Lec1 (.c)]|
-
-#### **Assignments**
--  
 
 [downsyl]: <http://naver.com>

@@ -4,12 +4,10 @@ title: "Courses"
 permalink: /courses/
 ---
 
-## **2019 Teaching**
+## **Teaching Archive**
 
 <!--### Programming I (C)
--
-
 
 ### Programming II (Python)
-- 
--->
+
+- -->
