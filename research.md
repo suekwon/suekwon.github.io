@@ -5,11 +5,12 @@ permalink: /research/
 ---
 
 ### **Research Interests**
-- Portfolio optimization
-- Optimization in financial instruments
-- Stochastic / Robust optimization
-- Branch-and-Bound with machine learning 
-- Integer programming
+
+- Financial Regulation and Derivatives Pricing
+- Target Date Fund (TDF) Portfolio Optimization and Glide Path Design
+- Stochastic / Robust / Integer optimization
+- Integration of Branch-and-Bound Algorithms with Machine Learning
+
 
 
 <details>
