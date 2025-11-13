@@ -6,6 +6,7 @@ permalink: /research/
 
 ### **Research Interests**
 
+- Reinforcement Learning and Deep Learning
 - Financial Regulation and Derivatives Pricing
 - Target Date Fund (TDF) Portfolio Optimization and Glide Path Design
 - Stochastic / Robust / Integer optimization
