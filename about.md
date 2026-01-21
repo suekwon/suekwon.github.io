@@ -16,7 +16,7 @@ permalink: /about/
 
 - 2025-Present: _Chief Executive Officer_, From Insight Inc.
 - 2022-2025: _Manager_ Quantit (formerly Qvious Inc.)
-- 2020-2022: _Director_ (Co-Founder), Qvious Inc.[qvious.com](https://qvious.com){:target="_blank"}
+- 2020-2022: _Director_ (Co-Founder), [Qvious Inc.](https://qvious.com){:target="_blank"}
 -  _Team Manager_, Korea Asset Pricing Co., Seoul, Korea.
   - Developed and implemented a pricing engine for derivatives using C++.
 -  _Consultant_, CMPR (Capital Market and Portfolio Research Inc.), Seoul, Korea.  
